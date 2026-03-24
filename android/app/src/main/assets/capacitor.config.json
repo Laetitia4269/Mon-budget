@@ -1,0 +1,6 @@
+{
+	"appId": "com.budget.app",
+	"appName": "Budget App",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

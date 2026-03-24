@@ -1,0 +1,5 @@
+{
+  "name": "Synthèse Dépenses Mensuelles",
+  "description": "Une application pour suivre et synthétiser vos dépenses mensuelles basée sur votre modèle budgétaire.",
+  "requestFramePermissions": []
+}
